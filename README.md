@@ -1,6 +1,13 @@
--Project name
--Group number (Ex: 1A)
--Each group member name (Please select one. Ex: "Fantastic 4")
+-Project Road Block
+-Group number : 1A
+-Each group member name:
+Denizhan Soydaş
+Serkan Delil
+Kaan Atakan Öztürk
+Cavid Gayıblı
+Selim Can Gülsever
+Deniz Ufuk Düzgün
+
 -Project topic
 -Brief description of your project topic(the real one)
 -Brief description of what you will do, your requirements
