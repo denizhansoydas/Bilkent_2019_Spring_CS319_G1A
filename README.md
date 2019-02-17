@@ -1,11 +1,17 @@
 -Project Road Block
 -Group number : 1A
 -Each group member name:
+
 Denizhan Soydaş
+
 Serkan Delil
+
 Kaan Atakan Öztürk
+
 Cavid Gayıblı
+
 Selim Can Gülsever
+
 Deniz Ufuk Düzgün
 
 -Project topic
