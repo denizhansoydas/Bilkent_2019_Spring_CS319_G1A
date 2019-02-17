@@ -1,2 +1,8 @@
-# Bilkent_2019_Spring_CS319_G1A
-This is the term project of Bilkent University CS319 Group1: Road Block.
+-Project name
+-Group number (Ex: 1A)
+-Each group member name (Please select one. Ex: "Fantastic 4")
+-Project topic
+-Brief description of your project topic(the real one)
+-Brief description of what you will do, your requirements
+-What are the differences between your project and the real one, in short?
+-If you have any references, please add. 
