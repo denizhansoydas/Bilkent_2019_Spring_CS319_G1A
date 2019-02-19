@@ -21,7 +21,7 @@ We will create several maps and there will be some obstacles such as buildings p
 -What are the differences between your project and the real one, in short?
 We will have additional features:
 We will have limited amount of time to complete the game on some levels.
-There will be point collection system according to various conditions.
+There will be point collection system according to various conditions(time,move count etc).
 There will be safe place which  consists of house and the park of the thief.
 
 
