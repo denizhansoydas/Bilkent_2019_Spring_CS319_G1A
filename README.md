@@ -19,7 +19,11 @@ Our project is a software version of the game Road Block. There is one thief and
 We will create several maps and there will be some obstacles such as buildings police cars in order to stop the thief.
 
 -What are the differences between your project and the real one, in short?
-We will have additional features such as ...
+We will have additional features:
+We will have limited amount of time to complete the game on some levels.
+There will be point collection system according to various conditions.
+There will be safe place which  consists of house and the park of the thief.
+
 
 -If you have any references, please add:
 https://www.smartgames.eu/uk/one-player-games/roadblock 
